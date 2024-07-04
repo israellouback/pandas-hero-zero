@@ -31,7 +31,7 @@ series_idade['a']
 # %%
 #O método ILOC retorna a POSIÇÃO do elemento na nossa serie
 series_idade.iloc[0]
-series_idade.iloc[1:3]
+series_idade.iloc[0:4]
 
 # %%
 #O método LOC retorna o  ÍNDICE do elemento na nossa série
